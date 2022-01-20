@@ -6,19 +6,25 @@ Simple no-frontend chat with commenting and reacting features.
 2. Sing in or sign up (as always).
 3. **To send a message,** type 
 Any text and press Enter
+
 4. **To write a comment,** type 
 ```
 /c + [message number] + any text 
 ```
 For example, ```/c 42 I'm the bald guy``` will leave the comment "I'm the bald guy" under the message #42. 
+
 5. **To like a message,** type 
 ```/l + [message number]```
+
 6. **To dislike a message,** type 
 ```/l + [message number]```
+
 7. **To 🔥 a message,** type 
 ```/lire + [message number]```
+
 8. **To ❤️️ a message,** type 
 ```/love + [message number]```
+
 9. **To 💩️ a message,** type 
 ```/poo + [message number]```
 
