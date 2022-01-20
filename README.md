@@ -17,10 +17,10 @@ For example, ```/c 42 I'm the bald guy``` will leave the comment "I'm the bald g
 ```/l + [message number]```
 
 6. **To dislike a message,** type 
-```/l + [message number]```
+```/d + [message number]```
 
 7. **To 🔥 a message,** type 
-```/lire + [message number]```
+```/fire + [message number]```
 
 8. **To ❤️️ a message,** type 
 ```/love + [message number]```
